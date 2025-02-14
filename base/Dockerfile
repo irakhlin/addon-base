@@ -41,7 +41,7 @@ RUN \
         libssl3=3.3.3-r0 \
         musl-utils=1.2.5-r9 \
         musl=1.2.5-r9 \
-        alpine-sdk \
+        alpine-sdk=1.1-r0 \
     \
     && apk add --no-cache \
         bash=5.2.37-r0 \
